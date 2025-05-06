@@ -2,6 +2,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 
 public class AddUser {
+    // test change for github push
     private final DatabaseConnection dbConnection;
 
     public AddUser(DatabaseConnection dbConnection) {
